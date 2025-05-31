@@ -1,2 +1,5 @@
 netifaces
 prettytable
+requests
+speedtest-cli
+scapy
